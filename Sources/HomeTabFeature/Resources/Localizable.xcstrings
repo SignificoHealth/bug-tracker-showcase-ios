@@ -1,0 +1,119 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "about" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rechtliches"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        }
+      }
+    },
+    "about_text" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Urheberrechtshinweis\n\nUrheberrecht © 2024 Significo GmbH. Alle Rechte vorbehalten.\n\nDiese App und deren Inhalte, einschließlich, aber nicht beschränkt auf Code, Design, Logos und andere Vermögenswerte, sind das geistige Eigentum der Significo GmbH. Unbefugtes Kopieren, Verteilen, Ändern oder jegliche andere Verwendung der App oder ihrer Inhalte ist strengstens untersagt."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Copyright Notice\n\nCopyright © 2024 Significo GmbH. All rights reserved.\n\nThis app and its content, including but not limited to code, design, logos, and other assets, are the intellectual property of Significo GmbH. Unauthorized copying, distribution, modification, or any other use of the app or its content is strictly prohibited."
+          }
+        }
+      }
+    },
+    "app_description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Willkommen bei der BugTracker-App!\n\nDiese App macht es einfach, Ihre GitHub-Issues zu verwalten.\n\nWas Sie tun können:\n\n- __Issues anzeigen__: Sehen Sie alle Ihre offenen Issues an einem Ort.\n\n- __Issues erstellen__: Erstellen Sie neue Issues, einschließlich aller erforderlichen Informationen. Das Anhängen von Dateien ist ebenfalls möglich.\n\n- __Issues bearbeiten__: Aktualisieren Sie bestehende Issues, um alles auf dem neuesten Stand zu halten.\n\nDiese App arbeitet direkt mit GitHub, sodass alle Ihre Änderungen sofort sichtbar sind."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Welcome to the BugTracker App!\nThis app makes it easy to manage your GitHub issues. What you can do:\n\n- __View Issues__: See all your open issues in one place.\n\n- __Create Issues__: Create new issues, including all required information. Attaching files is also possible.\n\n- __Edit Issues__: Update existing issues to keep everything current.\n\nThis app works directly with GitHub, so all your changes show up right away."
+          }
+        }
+      }
+    },
+    "app_name" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BugTracker"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BugTracker"
+          }
+        }
+      }
+    },
+    "home" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Startseite"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        }
+      }
+    },
+    "lets_start_button" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los geht's"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Let's start"
+          }
+        }
+      }
+    },
+    "logged_in_as_%@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Angemeldet als __%@__"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Logged in as __%@__"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
